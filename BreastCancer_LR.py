@@ -242,7 +242,7 @@ print("The sigmoid function maps the linear model output 'z' to a probability be
 print("This probability is used to classify the instance, typically using a 0.5 threshold.")
 
 print("\n--- Threshold Tuning ---")
-print("Default threshold (0.5) results (from Cell 7):")
+print("Default threshold (0.5) :")
 print(f"  Precision (Malignant): {precision_malignant:.4f}")
 print(f"  Recall (Malignant):    {recall_malignant:.4f}")
 print(f"  F1-Score (Malignant):  {f1_malignant:.4f}")
